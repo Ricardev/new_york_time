@@ -1,16 +1,7 @@
 # new_york_time_api
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Esse projeto consome a API do The New York Time Book Api's.
+Os dois endpoints consumidos são os Best Sellers e a lista de tipos utilizado para pegar os best-sellers por tipos específicos.
+Foi utilizada a versão 3.3.2 do Flutter.
+Foi seguido as práticas da Clean Architecture e feito os testes unitários da camada de infra e domínio, apesar da solução em si não ter muita complexidade na sua implantação ou regra de negócio.
+https://github.com/Ricardev/new_york_time
